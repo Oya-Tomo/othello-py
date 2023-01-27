@@ -1,18 +1,22 @@
 # Othello AI の実装
 
+# tech
+
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow)](https://skillicons.dev)
+
 ## 基本説明
 
 この AI は畳み込み学習を利用して、オセロの盤面の特徴を学習しプロの棋譜をもとにした手を打つことの出来るプログラムです。
 
 ## データの出典
 
--   棋譜のデータ　　：https://www.ffothello.org/informatique/la-base-wthor/
--   棋譜の変換　　　：https://lavox.github.io/wthor.html
--   参考にしたサイト：https://qiita.com/tanaka-a/items/e21d32d2931a24cfdc97
+- 棋譜のデータ　　：https://www.ffothello.org/informatique/la-base-wthor/
+- 棋譜の変換　　　：https://lavox.github.io/wthor.html
+- 参考にしたサイト：https://qiita.com/tanaka-a/items/e21d32d2931a24cfdc97
 
 ## 参考サイト
 
--   やってみたら簡単！ディープラーニング・オセロを作って自分を負かすまで強くした話(その 1) : https://qiita.com/TokyoYoshida/items/07bd3cdca6a7e50c3114
+- やってみたら簡単！ディープラーニング・オセロを作って自分を負かすまで強くした話(その 1) : https://qiita.com/TokyoYoshida/items/07bd3cdca6a7e50c3114
 
 ## 実装
 
