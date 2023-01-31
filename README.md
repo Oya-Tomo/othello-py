@@ -4,6 +4,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow)](https://skillicons.dev)
 
+## ファイル構成
+
+- game.py : オセロのゲーム
+- othello.py : オセロのロジックを含むクラス
+- model.py : モデルの構築
+- train.py : モデルの学習
+- make_data.py : 学習用データの作成＆ファイルへ圧縮
+- extract_data.py : CSV ファイルからデータを取り出す
+- ggf_split.py : ggf 形式からの切り出し（現在使用していない）
+
 ## 基本説明
 
 この AI は畳み込み学習を利用して、オセロの盤面の特徴を学習しプロの棋譜をもとにした手を打つことの出来るプログラムです。
