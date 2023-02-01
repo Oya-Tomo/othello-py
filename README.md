@@ -18,6 +18,29 @@
 
 この AI は畳み込み学習を利用して、オセロの盤面の特徴を学習しプロの棋譜をもとにした手を打つことの出来るプログラムです。
 
+## 動かし方
+
+### セットアップ
+
+```
+python3 -m venv lib
+pip install -r requirements.txt
+```
+
+### モデルの学習
+
+```
+./lib/bin/python make_data.py
+./lib/bin/python model.py
+./lib/bin/python train.py
+```
+
+### ゲームの実行
+
+```
+./lib/bin/python game.py
+```
+
 ## データの出典
 
 - 棋譜のデータ　　：https://www.ffothello.org/informatique/la-base-wthor/
