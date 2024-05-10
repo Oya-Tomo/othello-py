@@ -46,6 +46,8 @@ https://github.com/Oya-Tomo/othello-py-tf
     <img src="assets/match_demo.png" width=700>
 </div>
 
-## reference
+## referenced link
+
+### data
 
 - https://www.ffothello.org/informatique/la-base-wthor/
