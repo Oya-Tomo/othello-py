@@ -36,6 +36,16 @@ data = [0.0, 0.0, ... 0.0, 0.0] # 64 floats
 
 I ported a machine learning model from tensorflow to pytorch.
 
+The old version has been archived.
+
+https://github.com/Oya-Tomo/othello-py-tf
+
+## demo
+
+<div align=center>
+    <img src="assets/match_demo.png" width=700>
+</div>
+
 ## reference
 
 - https://www.ffothello.org/informatique/la-base-wthor/
