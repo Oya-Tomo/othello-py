@@ -40,6 +40,36 @@ The old version has been archived.
 
 https://github.com/Oya-Tomo/othello-py-tf
 
+## how to use
+
+### setup
+
+```shell
+pip install pandas
+pip install torch
+pip install pygame
+```
+
+### create data files
+
+```shell
+mkdir data
+python3 data.py
+```
+
+### train model
+
+```shell
+mkdir models
+python3 train.py
+```
+
+### play game
+
+```shell
+python3 game.py
+```
+
 ## demo
 
 <div align=center>
